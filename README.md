@@ -1,4 +1,4 @@
-di# 📧 Email Automation & Reminder System
+# 📧 Email Automation & Reminder System
 
 ## 🚀 Overview
 
